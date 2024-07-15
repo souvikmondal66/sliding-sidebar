@@ -1,0 +1,19 @@
+.class{
+            display: block;
+            padding: 10px;
+            background-color: aqua;
+            color: red;
+            transition-duration: 0.8s;
+            text-align: center;
+            width: 100px;
+            border: 5px solid red  ;
+
+}
+
+.class:hover{
+            background-color: black;
+            color: rgb(20, 163, 56);
+            cursor: pointer;
+            transform: translateX(20px);
+}
+
